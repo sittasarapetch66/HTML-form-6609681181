@@ -1,0 +1,10 @@
+
+  .col1{height: 100%; width: 25%; float: left;}
+  .col2{background-color: whitesmoke; width: 50%; float: left;}
+  .col3{ width: 50%; float: left; height: 100%;}
+  .col4{ width: 25%; float: left; height: 100%;}
+  #cen {text-align: center;}
+  #cen1 {text-align: center; background-color: whitesmoke;}
+  body {background-color: gold;}
+  #f {font-family: Helvetica;}
+  .colh {width: 100%; padding: 10px; float: left; background-color: whitesmoke;}
